@@ -6,3 +6,5 @@
 ### Day 3 (2025-05-09)
 - Progate Python II 完了
 - `day3_loops.py` : for / while の実践  
+### Day 4 (2025-05-10)
+- `day4_stats.py` : ユーザ入力で 5 科目の合計を計算し、350 点以上で合格判定
