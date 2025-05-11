@@ -8,3 +8,5 @@
 - `day3_loops.py` : for / while の実践  
 ### Day 4 (2025-05-10)
 - `day4_stats.py` : ユーザ入力で 5 科目の合計を計算し、350 点以上で合格判定
+### Day 5 (2025-05-11)
+- `day5_random_game.py` : random と def 関数で作成した色当てゲーム
