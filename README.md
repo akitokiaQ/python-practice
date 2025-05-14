@@ -14,3 +14,4 @@
 - 体調不良のため学習休養（記録のみ）"
 ### Day 7 (2025-05-13)
 - ファイルI/O: scores.txt → 辞書化 → 合計・平均 → レポート生成
+- Day8: add daily report CLI
