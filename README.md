@@ -16,3 +16,5 @@
 - ファイルI/O: scores.txt → 辞書化 → 合計・平均 → レポート生成
 ### Day 8 (2025-05-14)
 - `day8_daily_report.py` : Path + datetime + os + random を使った日報自動生成 CLI
+### Day 9 (2025-05-15)
+- `day9_report_cli.py`  : argparse + try / except(例外処理)を使用して、日付とIDを受け取れる CLI
