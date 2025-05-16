@@ -18,3 +18,5 @@
 - `day8_daily_report.py` : Path + datetime + os + random を使った日報自動生成 CLI
 ### Day 9 (2025-05-15)
 - `day9_report_cli.py`  : argparse + try / except(例外処理)を使用して、日付とIDを受け取れる CLI
+### Day 10 (2025-05-16)
+- `day10_report_cli.py` : loggingを使用したロガー設定と--verboseを使って詳細情報の表示の要否を設定できる　CLI
