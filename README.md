@@ -22,3 +22,5 @@
 - `day10_report_cli.py` : loggingを使用したロガー設定と--verboseを使って詳細情報の表示の要否を設定できる　CLI
 ### Day 11 (2025-05-17)
 - `test_report_cli.py` : 理解度不足、再度実践の必要あり
+### Day 12 (2025-05-18)
+- 計画再考
