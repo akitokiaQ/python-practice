@@ -38,3 +38,5 @@
 - 計画再考中
 ### Day 19 (2025-05-25)
 - `app.py` : Streamlit 初動 OK。GUI で確認できてイメージが掴めた。
+### Day 20 (2025=05-26)
+- `day20_app.py : Airbyteデータ連携・csvをStreamlitで読み込む。
