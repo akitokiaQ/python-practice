@@ -40,3 +40,5 @@
 - `app.py` : Streamlit 初動 OK。GUI で確認できてイメージが掴めた。
 ### Day 20 (2025-05-26)
 - `day20_app.py` : Airbyteデータ連携・csvをStreamlitで読み込む。
+### Day 21 (2025-05-27)
+- `day21.py` : Visualizing stargazers from GitHub trending data.
