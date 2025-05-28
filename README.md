@@ -42,3 +42,5 @@
 - `day20_app.py` : Airbyteデータ連携・csvをStreamlitで読み込む。
 ### Day 21 (2025-05-27)
 - `day21.py` : Visualizing stargazers from GitHub trending data.
+### Day 22 (2025-05-28)
+- `day22_app.py` : Visualization of watchers and forks.
