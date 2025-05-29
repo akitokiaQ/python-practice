@@ -44,3 +44,5 @@
 - `day21.py` : Visualizing stargazers from GitHub trending data.
 ### Day 22 (2025-05-28)
 - `day22_app.py` : Visualization of watchers and forks.
+### Day 23 (2025-05-29)
+- `day23_app.py` : Creating a switchable dashboard and learning pandas. Preparing for Google certification and developing a study plan. The problem of Airbyte's repository not loading continues.
