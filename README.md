@@ -48,3 +48,5 @@
 - `day23_app.py` : Creating a switchable dashboard and learning pandas. Preparing for Google certification and developing a study plan. The problem of Airbyte's repository not loading continues.
 ### Day 24 (2025-05-30)
 - rest.
+### Day 25 (2025-05-31)
+- `day25_app.py` : Creating age-based population rankings.Progress in studying for qualifications is slow.
