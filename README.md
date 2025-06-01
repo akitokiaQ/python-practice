@@ -50,3 +50,5 @@
 - rest.
 ### Day 25 (2025-05-31)
 - `day25_app.py` : Creating age-based population rankings.Progress in studying for qualifications is slow.
+### Day 26 (2025-06-01)
+- `day26_app.py` : Creating a population distribution graph. I need to get back on track with my qualification studies.
