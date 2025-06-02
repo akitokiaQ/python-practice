@@ -52,3 +52,5 @@
 - `day25_app.py` : Creating age-based population rankings.Progress in studying for qualifications is slow.
 ### Day 26 (2025-06-01)
 - `day26_app.py` : Creating a population distribution graph. I need to get back on track with my qualification studies.
+### Day 27 (2025-06-02)
+- `day27_app.py` : Understanding the data ecosystem in qualification learning.Using streamlit and matplotlib, I calculated the elderly population and productive population and created a pie chart.
