@@ -56,3 +56,5 @@
 - `day27_app.py` : Understanding the data ecosystem in qualification learning.Using streamlit and matplotlib, I calculated the elderly population and productive population and created a pie chart.
 ### Day 28 (2025-06-03)
 - Selecting the topic, formulating a hypothesis, and preparing the necessary dataset to verify the hypothesis. Completed course "Utilizing Data Analyst Skills" as part of my Google Data Analytics qualification studies.
+### Day 29 (2025-06-04)
+- Plan reconsideration date.
