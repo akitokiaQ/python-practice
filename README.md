@@ -60,3 +60,5 @@
 - Plan reconsideration date.
 ### Day 30 (2025-06-05)
 - rest.
+### Day 31 (2025-06-06)
+- Coursera Google Data Analytics Certification Course 1 Module 1.
