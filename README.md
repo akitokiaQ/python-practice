@@ -66,3 +66,5 @@
 - Module 1 assignment completed.
 ### Day 33 (2025-06-08)
 - rest.
+### Day 34 (2025-06-09)
+- Currently studying for Google certification.
