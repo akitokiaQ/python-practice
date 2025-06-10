@@ -68,3 +68,5 @@
 - rest.
 ### Day 34 (2025-06-09)
 - Currently studying for Google certification.
+### Day 35 (2025-06-10)
+- rest.
