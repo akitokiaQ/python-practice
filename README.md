@@ -70,3 +70,5 @@
 - Currently studying for Google certification.
 ### Day 35 (2025-06-10)
 - rest.
+### Day 36 (2025-06-11)
+- I have completed the assignment for Coursera Google Data Analytics Certification Course 1 Module 2.
