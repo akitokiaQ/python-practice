@@ -74,3 +74,5 @@
 - I have completed the assignment for Coursera Google Data Analytics Certification Course 1 Module 2.
 ### Day 37 (2025-06-12)
 - Completed basic Google Sheet exercises. Currently working on Module 3 of Course 1.
+### Day 38 (2025-06-13)
+- rest.
