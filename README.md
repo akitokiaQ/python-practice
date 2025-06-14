@@ -76,3 +76,5 @@
 - Completed basic Google Sheet exercises. Currently working on Module 3 of Course 1.
 ### Day 38 (2025-06-13)
 - rest.
+### Day 39 (2025-06-14)
+- Completed Course 1, Module 3.
