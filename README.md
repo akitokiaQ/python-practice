@@ -80,3 +80,5 @@
 - Completed Course 1, Module 3.
 ### Day 40 (2025-06-15)
 - rest.
+### Day 41 (2025-06-16)
+- Typing practice.
