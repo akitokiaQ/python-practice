@@ -82,3 +82,5 @@
 - rest.
 ### Day 41 (2025-06-16)
 - Typing practice.
+### Day 42 (2025-06-17)
+- Course 1, Module 4.
