@@ -86,3 +86,5 @@
 - Course 1, Module 4.
 ### Day 43 (2025-06-18)
 - Typing practice.
+### Day 44 (2025-06-19)
+- rest.
