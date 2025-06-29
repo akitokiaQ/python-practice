@@ -100,3 +100,5 @@
 - Typing practice.
 ### Day 50 (2025-06-25)
 - self-analysis.
+### Day 51 (2025-06-26)
+- Deciding on portfolio guidelines.
