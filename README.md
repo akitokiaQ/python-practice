@@ -104,3 +104,5 @@
 - Deciding on portfolio guidelines.
 ### Day 52 (2025-06-27)
 - typing practice.
+### Day 53 (2025-06-28)
+- Company research.
